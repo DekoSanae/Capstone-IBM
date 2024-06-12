@@ -1,3 +1,3 @@
 # Capstone-IBM
 
-This is my new project as a Data Scientist
+This is the final project in the course "Applied Data Science Capstone"
